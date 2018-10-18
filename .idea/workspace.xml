@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/SystemController.java" line="37" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="234750f2-d149-4cb0-8744-ab0c017da5ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/panan/mengpaihao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/police-cartoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/police1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shang6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shangpolice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/shangpolice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/policeDemo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/style/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/control/build/images/goyo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/police-cartoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/police1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shang6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangpolice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangpolice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangrao/fangwu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangrao/lvyoufuwu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangrao/shan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/shangrao/xiangcun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/images/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/swiper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/swiper.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/js/swiper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/style/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/static/style/swiper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dasd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/docker-compose" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/SystemDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/SystemDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/SystemController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/SystemController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/UserWeb/UserLoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/UserWeb/UserLoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/images/goyo1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/images/goyo1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/common/Sortable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/common/Sortable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style/weui.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/style/weui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/style/weui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/style/weui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/newsystem.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/newsystem.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system02.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system02.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/zhengfufuwu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/zhengfufuwu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangRaologin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangRaologin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/pananHouTailogin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangraoHouTailogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/navigation/newnavigation.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/navigation/newnavigation.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1748957761">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="66" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="10" />
+          <entry key="project.open.time.11" value="16" />
+          <entry key="project.open.time.12" value="10" />
+          <entry key="project.open.time.13" value="11" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="67" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="2" />
+          <entry key="application-dev" value="1" />
+          <entry key="class" value="10" />
+          <entry key="css" value="2" />
+          <entry key="docker-compose" value="3" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="2" />
+          <entry key="java" value="499" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="37" />
+          <entry key="json" value="2" />
+          <entry key="jsp" value="288" />
+          <entry key="png" value="12" />
+          <entry key="properties" value="17" />
+          <entry key="xml" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="10" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="13" />
+          <entry key="JAVA" value="499" />
+          <entry key="JSON" value="2" />
+          <entry key="JSP" value="288" />
+          <entry key="JavaScript" value="37" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="18" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="docker-compose" value="23" />
+          <entry key="dummy" value="58" />
+          <entry key="java" value="18088" />
+          <entry key="js" value="262" />
+          <entry key="jsp" value="7349" />
+          <entry key="properties" value="29" />
+          <entry key="txt" value="156" />
+          <entry key="xml" value="121" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="18088" />
+          <entry key="JSP" value="7349" />
+          <entry key="JavaScript" value="262" />
+          <entry key="PLAIN_TEXT" value="214" />
+          <entry key="Properties" value="29" />
+          <entry key="XML" value="121" />
+          <entry key="YAML" value="23" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-756731062">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="88" />
+          <entry key="jsp" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="88" />
+          <entry key="JSP" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="4" />
+          <entry key="jsp" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="5" />
+          <entry key="JSP" value="12" />
+          <entry key="JavaScript" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="demo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/ZhmpApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system02.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="127" selection-start-line="127" selection-end-line="127" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="daoxml" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;%=basepath%&gt;</find>
+      <find>00为管理员账号，11为公安局账号</find>
+      <find>org.springframework.boot</find>
+      <find>main</find>
+      <find>tpl_management</find>
+      <find>tpl_monitoring</find>
+      <find>pageContent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/static</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/a.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/control/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/BackstageDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/BackstageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/impl/BackstageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/beans/DisUserAddDisName.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/disUserList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/CollectionSystemService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/impl/CollectionSystemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/utils/TestLeetCode.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/form.jsp" />
+        <option value="$PROJECT_DIR$/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/docker-compose" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-dev" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/CollectionSystemDao.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/static/js/navigation/navigation.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/renminlu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/zhoubianfankui.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/xiangguanlianjie.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/UserService/Impl/UserLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/UserService/UserLoginService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/UserDao/UserLoginDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/UserService/Impl/UserCountyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/SystemService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/impl/SystemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/a.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/beans/System.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/main.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/formNonghu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/CollectionController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/buildingList.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/control/login01.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/BackstageController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/pananHouTailogin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/utils/MyWebMvcConfigurerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/zhengfufuwu.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/newsystem.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangRaologin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/UserWeb/UserLoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangraoHouTailogin.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/navigation/newnavigation.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/SystemDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/Transfer.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/SystemController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system02.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="room" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="room" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="room" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/src/main/webapp/control/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="650" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yzt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yzt" type="462c0819:PsiDirectoryNode" />
+              <item name="zhmp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="yzt" type="462c0819:PsiDirectoryNode" />
+              <item name="zhmp" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539485174052" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../demo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.18066406" />
+    <property name="project.structure.side.proportion" value="0.32738096" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yzt.zhmp.service.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.yzt.zhmp" />
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\yztTest\shangrao\demo\src\main\webapp\WEB-INF\a" />
+      <recent name="G:\yztTest\shangrao\demo\src\main\resources\static\images" />
+      <recent name="G:\yztTest\shangrao\demo\src\main\webapp\static\images" />
+      <recent name="G:\yztTest\shangrao\demo\src\main\webapp" />
+      <recent name="G:\yztTest\shangrao\demo\src\main\webapp\control\build\images" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\yztTest\demo\src\main" />
+      <recent name="G:\yztTest\demo\src" />
+      <recent name="G:\yztTest\demo\src\main\webapp\static\images" />
+      <recent name="G:\yztTest\demo\src\main\webapp\WEB-INF\navigation" />
+      <recent name="G:\yztTest\demo\src\main\java\com\yzt\zhmp\service\UserService" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZhmpApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErWeiMa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yzt.zhmp.utils.ErWeiMa" />
+      <module name="demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yzt.zhmp.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yzt.zhmp.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yzt.zhmp.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.yzt.zhmp.service.impl.OrgFeaturesServiceImplTest" />
+      <option name="METHOD_NAME" value="selectOrgFeatures" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhmpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yzt.zhmp.ZhmpApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ZhmpApplication" />
+      <item itemvalue="JUnit.OrgFeaturesServiceImplTest.selectOrgFeatures" />
+      <item itemvalue="Application.ErWeiMa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ErWeiMa" />
+        <item itemvalue="JUnit.OrgFeaturesServiceImplTest.selectOrgFeatures" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HP\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="234750f2-d149-4cb0-8744-ab0c017da5ed" name="Default Changelist" comment="" />
+      <created>1535702661370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535702661370</updated>
+      <workItem from="1535702663006" duration="1280000" />
+      <workItem from="1535704006314" duration="7131000" />
+      <workItem from="1535760692651" duration="1607000" />
+      <workItem from="1535762353094" duration="22625000" />
+      <workItem from="1535794665612" duration="1503000" />
+      <workItem from="1535934620045" duration="5855000" />
+      <workItem from="1535941167949" duration="11743000" />
+      <workItem from="1535957842859" duration="10934000" />
+      <workItem from="1536020503841" duration="13744000" />
+      <workItem from="1536041006637" duration="8728000" />
+      <workItem from="1536107279960" duration="2034000" />
+      <workItem from="1536132289798" duration="3140000" />
+      <workItem from="1536193377340" duration="18643000" />
+      <workItem from="1536223659469" duration="660000" />
+      <workItem from="1536225673022" duration="604000" />
+      <workItem from="1536279808220" duration="599000" />
+      <workItem from="1536289291748" duration="17854000" />
+      <workItem from="1536366126348" duration="11183000" />
+      <workItem from="1536378635626" duration="3525000" />
+      <workItem from="1536388896340" duration="9776000" />
+      <workItem from="1536538926296" duration="17304000" />
+      <workItem from="1536561501981" duration="16773000" />
+      <workItem from="1536583656275" duration="5028000" />
+      <workItem from="1536625556908" duration="18250000" />
+      <workItem from="1536655746063" duration="2685000" />
+      <workItem from="1536711936334" duration="15038000" />
+      <workItem from="1536798204021" duration="3440000" />
+      <workItem from="1536824612511" duration="6001000" />
+      <workItem from="1536884370655" duration="28343000" />
+      <workItem from="1537143427190" duration="26040000" />
+      <workItem from="1537229833181" duration="25307000" />
+      <workItem from="1537316664085" duration="20295000" />
+      <workItem from="1537402542014" duration="6678000" />
+      <workItem from="1537489143558" duration="23841000" />
+      <workItem from="1537576239944" duration="5815000" />
+      <workItem from="1537595511902" duration="5092000" />
+      <workItem from="1537834677958" duration="3429000" />
+      <workItem from="1537842012413" duration="8257000" />
+      <workItem from="1537920888664" duration="6669000" />
+      <workItem from="1537930925363" duration="9675000" />
+      <workItem from="1538007999569" duration="6259000" />
+      <workItem from="1538025775397" duration="9259000" />
+      <workItem from="1538039406844" duration="241000" />
+      <workItem from="1538039691311" duration="2553000" />
+      <workItem from="1538047659275" duration="3784000" />
+      <workItem from="1538093998016" duration="7146000" />
+      <workItem from="1538102909541" duration="19000" />
+      <workItem from="1538104286665" duration="672000" />
+      <workItem from="1538115383918" duration="3106000" />
+      <workItem from="1538126188076" duration="1899000" />
+      <workItem from="1538180617637" duration="3230000" />
+      <workItem from="1538354884599" duration="168000" />
+      <workItem from="1538360289219" duration="831000" />
+      <workItem from="1538361283210" duration="632000" />
+      <workItem from="1538785333822" duration="11013000" />
+      <workItem from="1538871550743" duration="5017000" />
+      <workItem from="1538878499295" duration="950000" />
+      <workItem from="1538879720818" duration="17258000" />
+      <workItem from="1538958336134" duration="8708000" />
+      <workItem from="1538970613864" duration="7875000" />
+      <workItem from="1538986469475" duration="4097000" />
+      <workItem from="1539044507213" duration="19252000" />
+      <workItem from="1539088667522" duration="118000" />
+      <workItem from="1539130779235" duration="20527000" />
+      <workItem from="1539217458035" duration="16092000" />
+      <workItem from="1539303769918" duration="2607000" />
+      <workItem from="1539311429660" duration="4353000" />
+      <workItem from="1539390317962" duration="10910000" />
+      <workItem from="1539423628588" duration="1894000" />
+      <workItem from="1539480101728" duration="338000" />
+      <workItem from="1539484685897" duration="489000" />
+      <workItem from="1539562925896" duration="485000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加了测试类">
+      <created>1538884306370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1538884306370</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新了用户登入和建筑id关联">
+      <created>1538904595728</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538904595728</updated>
+    </task>
+    <task id="LOCAL-00003" summary="优化政府服务功能显示  添加用户和建筑id关联">
+      <created>1538985771814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1538985771815</updated>
+    </task>
+    <task id="LOCAL-00004" summary="优化政府服务功能显示  添加用户和建筑id关联">
+      <created>1538986243207</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538986243207</updated>
+    </task>
+    <task id="LOCAL-00005" summary="t添加后台主页面地图   优化磐安县民政账号登入后 在民政功能模块显示管理功能模块">
+      <created>1539158458551</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539158458551</updated>
+    </task>
+    <task id="LOCAL-00006" summary="优化民政公安登入功能 以及后台系统行政用户和部门用户登入问题">
+      <created>1539242917874</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539242917874</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 29m 17s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 30m 19s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 31m 46s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 31m 51s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 32m 20s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 32m 29s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrgFeaturesServiceImplTest_selectOrgFeatures - 2018.09.07 at 17h 33m 05s.xml">
+      <configuration name="OrgFeaturesServiceImplTest.selectOrgFeatures" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="578910000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49534884" visible="true" weight="0.21313673" />
+      <window_info id="Structure" order="1" sideWeight="0.5046512" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Web" order="5" sideWeight="0.5046512" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="6" sideWeight="0.5046512" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49731904" weight="0.4340176" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6172922" weight="0.3739003" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.54692084" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.32844576" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.38270777" side_tool="true" weight="0.40762463" />
+      <window_info anchor="bottom" id="Application Servers" order="8" weight="0.32902467" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.43650794" weight="0.0542522" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" sideWeight="0.49865952" weight="0.32844576" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.30498534" />
+      <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49865952" weight="0.32844576" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49731904" weight="0.38269794" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.2680965" />
+      <window_info anchor="right" id="CDI" order="5" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="JSF" order="8" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交版本" />
+    <MESSAGE value="添加了测试类" />
+    <MESSAGE value="天剑" />
+    <MESSAGE value="更新了用户登入和建筑id关联" />
+    <MESSAGE value="优化政府服务功能显示  添加用户和建筑id关联" />
+    <MESSAGE value="t添加后台主页面地图   优化磐安县民政账号登入后 在民政功能模块显示管理功能模块" />
+    <MESSAGE value="优化民政公安登入功能 以及后台系统行政用户和部门用户登入问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化民政公安登入功能 以及后台系统行政用户和部门用户登入问题" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/impl/SystemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/backstageResource/Js/mDialog.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/utils/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/a.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="70" column="10" lean-forward="true" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/shangrao/lvyoufuwu.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/shangrao/shan.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/utils/ErWeiMa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-571">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/UserDao/UserLoginDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/formUpadteXianqu.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/beans/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="64" column="31" selection-start-line="64" selection-start-column="31" selection-end-line="64" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="41" column="83" selection-start-line="41" selection-start-column="83" selection-end-line="41" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/UserService/Impl/UserLoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/UserService/UserLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/formXianqu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/backstageResource/Images/icon_cost.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="114" column="65" selection-start-line="114" selection-start-column="65" selection-end-line="114" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/BackstageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/buildingList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3322">
+          <caret line="193" column="89" selection-start-line="193" selection-start-column="89" selection-end-line="193" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/deptUserList.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/beans/DeptUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/BackstageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="89" column="72" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/CollectionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/backstageResource/Js/js.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/utils/MyWebMvcConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/login01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="81" column="26" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/control/formNonghu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="169" column="4" selection-start-line="169" selection-start-column="4" selection-end-line="169" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangRaologin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-691">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/service/SystemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/dao/SystemDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/user/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/newsystem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="445" column="37" selection-start-line="445" selection-start-column="17" selection-end-line="445" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/navigation/newnavigation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="67" column="71" selection-start-line="67" selection-start-column="65" selection-end-line="67" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/SystemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/UserWeb/UserLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="66" column="47" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/zhengfufuwu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/login/ShangraoHouTailogin.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="53" column="60" lean-forward="true" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/web/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/userInfo.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="92" column="77" selection-start-line="92" selection-start-column="77" selection-end-line="92" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/219226629aa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/timg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/images/police1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/police-cartoon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/images/shangpolice.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/static/js/user/user.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yzt/zhmp/ZhmpApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/a/system02.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>demo:Web2 exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (demo)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.10.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32738096" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
